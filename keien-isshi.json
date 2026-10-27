@@ -6,7 +6,12 @@
  "category": "私家集",
  "kind": "kashu",
  "author": "香川景樹",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "文政13年（1830）刊",
+  "author": "香川景樹",
+  "desc": "桂園派を率いた香川景樹の自撰家集。調べを重んじる歌風を示す。"
+ },
  "editions": [
   {
    "pid": "1913662",
